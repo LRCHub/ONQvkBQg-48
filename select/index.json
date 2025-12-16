@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "グロテスク（feat. 安室　奈美恵）",
+  "base_artist": "平井　堅",
+  "createdAt": "2025-12-16T16:05:11.105065Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グロテスク feat. 安室奈美恵",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_01_グロテスク_feat._安室奈美恵_平井_堅.txt"
+    }
+  ]
+}
